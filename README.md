@@ -46,6 +46,10 @@ This project is under the MIT license. See the file [License]() for more details
 
 <img alt="GitHub search hit counter" src="https://img.shields.io/github/search/ThiagoTeixeira/ThiagoTeixeira/Thiago-Teixeiraup?style=social&color=%2300CAFF"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Thiago-Teixeiraup?style=social&logoColor=%2300CAFF"> <img alt="GitHub search hit counter" src="https://img.shields.io/github/search/ThiagoTeixeira/ThiagoTeixeira/Thiago-Teixeiraup?style=social&label=Hits">
 
+### Contador de Visitas
+
+Este repositório recebeu ![Contador de Visitas](https://img.shields.io/github/search/:ThiagoTeixeira/:Thiago-Teixeiraup) 
+
 
 
 

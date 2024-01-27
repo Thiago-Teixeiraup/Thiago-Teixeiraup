@@ -48,7 +48,8 @@ This project is under the MIT license. See the file [License]() for more details
 
 ### Contador de Visitas
 
-Este repositório recebeu ![Contador de Visitas](https://img.shields.io/github/search/:ThiagoTeixeira/:Thiago-Teixeiraup) 
+[![HitCount](https://hits.dwyl.com/ThiagoTeixeira/Thiago-Teixeiraup.svg?style=flat-square&show=unique)](https://hits.dwyl.com/ThiagoTeixeira/Thiago-Teixeiraup)
+
 
 
 

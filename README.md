@@ -44,7 +44,7 @@ This project is under the MIT license. See the file [License]() for more details
 [![Ícone LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-teixeira-analista/)
 
 
-<img alt="GitHub search hit counter" src="https://img.shields.io/github/search/Thiago-Teixeiraup/ThiagoTeixeira/Thiago-Teixeiraup?style=social&color=%2300CAFF"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Thiago-Teixeiraup?style=social&logoColor=%2300CAFF"> <img alt="GitHub search hit counter" src="https://img.shields.io/github/search/Thiago-Teixeiraup/Thiago-Teixeiraup/Thiago-Teixeiraup?style=social&label=Hits">
+<img alt="GitHub search hit counter" src="https://img.shields.io/github/search/ThiagoTeixeira/ThiagoTeixeira/Thiago-Teixeiraup?style=social&color=%2300CAFF"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Thiago-Teixeiraup?style=social&logoColor=%2300CAFF"> <img alt="GitHub search hit counter" src="https://img.shields.io/github/search/ThiagoTeixeira/ThiagoTeixeira/Thiago-Teixeiraup?style=social&label=Hits">
 
 
 

@@ -2,7 +2,7 @@
  Olá! Me chamo Thiago Teixeira, e simplesmente adoro tecnologia. Venho da Era do disquete 💾 , CDs 💿 e quem nunca ouviu daquele tal barulhinho da internet �°=°™
  <br>
 
-<h3>Analista de sistemas</h3> 
+<h3>Student</h3> 
 
 ![Thiago Teixeira GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-Teixeiraup&show_icons=true&theme=tokyonight)
 

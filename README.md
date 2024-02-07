@@ -1,6 +1,6 @@
 # THIAGO-TEIXEIRA*up* ![icons8-identity-theft-60](https://github.com/Thiago-Teixeiraup/Thiago-Teixeiraup/assets/122649685/f57a5464-8f63-406e-bf9c-26a8d3d02b84)
-<br>
  Olá! Me chamo Thiago Teixeira, e simplesmente adoro tecnologia. Venho da Era do disquete 💾 , CDs 💿 e quem nunca ouviu daquele tal barulhinho da internet �°=°™
+ <br>
 
 <h3>Analista de sistemas</h3> 
 

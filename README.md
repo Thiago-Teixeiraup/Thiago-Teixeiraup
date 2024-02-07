@@ -40,7 +40,6 @@ This project is under the MIT license. See the file [License]() for more details
 <h2>Redes Sociais</h2> 
 <p>Sinta-se à vontade para me seguir e ficar atualizado com as últimas novidades e insights tecnológicos! 🚀<p>
 
- [![Ícone GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiago-Teixeiraup) 
 [![Ícone LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-teixeira-analista/)
 
 

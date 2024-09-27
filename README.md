@@ -23,7 +23,7 @@
   
 
 <h2>Introdução</h2> 
-Bem-vindo(a) ao meu espaço, onde compartilho um pouco da minha jornada e projetos de desenvolvimento. Sou um entusiasta da tecnologia e atualmente estudante dedicado nesse fascinante universo geek.
+Bem-vindo(a) ao meu espaço, onde compartilho um pouco da minha jornada e projetos de desenvolvimento.
 
 Ao explorar este espaço, você encontrará insights sobre meus projetos, aprendizados e paixão pela inovação tecnológica. Agradeço por estar aqui e espero que desfrute da minha jornada no mundo da tecnologia.
 

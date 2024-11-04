@@ -15,7 +15,6 @@
 
 <h1>
     <a href="">See the site</a> 🌐
-    <p>Site Em Manutenção<p>
 
 ![icons8-road-closure-100](https://github.com/Thiago-Teixeiraup/Thiago-Teixeiraup/assets/122649685/831aa072-8d21-45f9-9813-26764d4729bb)
 </h1>
@@ -39,8 +38,6 @@ This project is under the MIT license. See the file [License]() for more details
 
 <h2>Redes Sociais</h2> 
 <p>Sinta-se à vontade para me seguir e ficar atualizado com as últimas novidades e insights tecnológicos! 🚀<p>
-
-[![Ícone LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-teixeira-analista/)
 
 
 ![GitHub search hit counter](https://img.shields.io/github/search/ThiagoTeixeira/ThiagoTeixeira/ThiagoTeixeira?style=social) ![GitHub followers](https://img.shields.io/github/followers/ThiagoTeixeira?style=social&logoColor=%2300CAFF) ![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hy/ThiagoTeixeira/ThiagoTeixeira?style=social&label=Hits)

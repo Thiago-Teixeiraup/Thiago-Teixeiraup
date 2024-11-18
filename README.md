@@ -9,7 +9,7 @@
 
 
     
-Bem-vindo(a) ao meu espaço, onde compartilho um pouco da minha jornada e projetos de desenvolvimento.
+Seja Bem-vindo(a) ao meu espaço, onde compartilho um pouco da minha jornada e projetos de desenvolvimento.
 Ao explorar este espaço, você encontrará sobre meus projetos e aprendizados no mundo da inovação tecnológica. Agradeço por estar aqui e espero que desfrute da minha jornada.
 
 Sinta-se à vontade para explorar e entre em contato.
